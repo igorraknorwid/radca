@@ -12,7 +12,7 @@ export default function Footer() {
       <h2 className='text-3xl shrink-0'>KANCELARIA ADWOKACKA W GDAŃSKU</h2>
       <div className='flex justify-center mt-10'>
         <iframe
-          src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.6354178276674!2d21.00380631594521!3d52.23184126529641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2z0JTQstC-0YDQtdGGINC60YPQu9GM0YLRg9GA0Ysg0Lgg0L3QsNGD0LrQuA!5e0!3m2!1sru!2spl!4v1663330464448!5m2!1sru!2spl'
+          src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d78186.00167913857!2d20.960372915378628!3d52.23770635058453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2sPa%C5%82ac%20Kultury%20i%20Nauki!5e0!3m2!1spl!2spl!4v1663749029997!5m2!1spl!2spl'
           className='lg:w-4/6 '
           style={{ border: "0", minHeight: "500px" }}
           allowFullScreen={false}

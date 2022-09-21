@@ -13,7 +13,9 @@ export default function Content() {
       <div
         className='brightness-75'
         style={{
-          background: ` url("https://cclaw.pl/wp-content/uploads/Adwokat-Gdansk-Przemyslaw-Czaicki-Radca-prawny-Gdansk-Agata-Czaicka.jpg") no-repeat center / cover`,
+          // background: ` url("https://cclaw.pl/wp-content/uploads/Adwokat-Gdansk-Przemyslaw-Czaicki-Radca-prawny-Gdansk-Agata-Czaicka.jpg") no-repeat center / cover`,
+          background: ` url("https://res.cloudinary.com/zielona-g-ra/image/upload/v1663144092/radcy/the-connected-narrative-FYGKPTJN8zw-unsplash_pfn6sx.webp") no-repeat center / cover`,
+
           width: "100%",
           height: "100vh",
           backgroundAttachment: "fixed",
