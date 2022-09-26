@@ -12,14 +12,14 @@ export default function Content() {
     <div id='start'>
       <div
         className='brightness-75'
-        // style={{
-        //   // background: ` url("https://cclaw.pl/wp-content/uploads/Adwokat-Gdansk-Przemyslaw-Czaicki-Radca-prawny-Gdansk-Agata-Czaicka.jpg") no-repeat center / cover`,
-        //   background: ` url("https://res.cloudinary.com/zielona-g-ra/image/upload/v1663762699/radcy/the-connected-narrative-FYGKPTJN8zw-unsplash_lcg9tt.webp") no-repeat center / cover`,
+        style={{
+          background: ` url("https://cclaw.pl/wp-content/uploads/Adwokat-Gdansk-Przemyslaw-Czaicki-Radca-prawny-Gdansk-Agata-Czaicka.jpg") no-repeat center / cover`,
+          // background: ` url("https://res.cloudinary.com/zielona-g-ra/image/upload/v1663762699/radcy/the-connected-narrative-FYGKPTJN8zw-unsplash_lcg9tt.webp") no-repeat center / cover`,
 
-        //   width: "100%",
-        //   height: "100vh",
-        //   backgroundAttachment: "fixed",
-        // }}
+          width: "100%",
+          height: "100vh",
+          backgroundAttachment: "fixed",
+        }}
       ></div>
       <div className='mx-auto w-full lg:w-4/6 '>
         <div className='relative'>
